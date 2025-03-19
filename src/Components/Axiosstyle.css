@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.main-heading{
+    color: rgb(90, 10, 59);
+    text-align: center;
+}
+
+.card{
+    height: 30rem auto;
+    width: 23rem;
+    margin-left: 500px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgb(16, 16, 17);
+    
+}
+.image{
+    width: 13rem;
+    height: 14rem ;
+    margin-left: 69px;
+
+
+}
+
+
+.card-title{
+    color: rgb(44, 6, 78);
+    font-weight: bolder;
+
+}
+
+.price{
+    color: rgb(4, 4, 216);
+}
+
+.card-text{
+    color: rgb(9, 54, 9);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+

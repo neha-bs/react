@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.product {
+    box-shadow: 0 4px 8px #000000be;
+    width: 20rem;
+    height: auto;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.main-body {
+    padding: 10px;
+}
+
+.buy-price {
+    color: green;
+    font-weight: bold;
+}
+
+.image{
+
+margin: 20px auto;
+}
